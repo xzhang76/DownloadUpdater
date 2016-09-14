@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HtscProgressArc</string>
+    <string name="update_download_failed">下载失败了</string>
+    <string name="update_download_failed_msg">下载失败的原因</string>
+    <string name="update_download_start">下载开始了</string>
+    <string name="update_download_start_msg">下载开始的原因</string>
+    <string name="update_download_processing">正在下载</string>
+    <string name="update_download_finish">下载完成</string>
+    <string name="update_download_finish_msg">下载完成的原因</string>
+
+
+
+</resources>
